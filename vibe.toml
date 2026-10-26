@@ -1,0 +1,7 @@
+[vibe]
+baseBranch = "main"
+branchPrefix = "feat/"
+mode = "solo"
+
+[release]
+versioning = "npm"

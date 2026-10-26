@@ -1,0 +1,26 @@
+{
+  "name": "sails-hook-mcp",
+  "version": "0.0.0",
+  "description": "Placeholder for a future MCP server hook for Sails. No MCP functionality is implemented.",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "sails",
+    "sails-hook",
+    "mcp"
+  ],
+  "author": "Kelvin Omereshone <kelvin@sailscasts.com>",
+  "license": "MIT",
+  "sails": {
+    "isHook": true,
+    "hookName": "mcp"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
+}
